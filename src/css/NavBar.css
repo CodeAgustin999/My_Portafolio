@@ -1,0 +1,12 @@
+.navButton{
+    text-decoration: none;
+    color: #90E0F8;
+    text-transform: uppercase;
+}
+.BarraNav{
+    
+    margin-right: 0px;
+    padding: 0;
+    position: relative;
+    left: 250px;
+}

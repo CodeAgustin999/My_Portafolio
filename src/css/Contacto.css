@@ -1,0 +1,31 @@
+:root{
+  --background-color: #08224E ;
+  --main-letter: #6CD9C1;
+  --Second-letter:  #90E0F8; 
+}
+
+.contacto{
+  background-color: var(--background-color);
+}
+h1 {
+
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+h3 {
+  text-align: center;
+}
+
+.contenedorLinks {
+  display: flex;
+  text-align: center;
+  align-items: center;
+justify-content: space-around;
+gap: 0;
+
+}
+.linkedin{
+    left: 100;
+    padding: 0;
+
+}

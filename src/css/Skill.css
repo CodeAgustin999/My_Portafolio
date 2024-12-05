@@ -1,0 +1,13 @@
+:root{
+    --background-color: #08224E ;
+    --main-letter: #6CD9C1;
+    --Second-letter:  #90E0F8; 
+  }
+.skills{
+    background-color: var(--background-color);
+    text-align: center;
+
+}
+.texto-skill{
+color: var(--Second-letter);
+}
